@@ -1,4 +1,4 @@
-kommerciel
+CNTCollect
 ==========
 
-fork comerzzia
+Sistema de recaudación Bancaria
